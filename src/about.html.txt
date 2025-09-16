@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Bake & Co</title>
+  <link rel="stylesheet" href="../styles/about.css">
+</head>
+<body>
+  <header>
+    <h1>About Bake & Co</h1>
+  </header>
+  <main>
+    <p>We are a family-owned bakery serving fresh breads, cakes, and pastries since 2000.</p>
+  </main>
+</body>
+</html>
