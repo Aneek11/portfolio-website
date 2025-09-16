@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home - Bake & Co</title>
+  <link rel="stylesheet" href="../styles/home.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Bake & Co</h1>
+  </header>
+  <main>
+    <p>Delicious baked goods made with love.</p>
+    <img src="images/bakery.jpg" alt="Bakery Image">
+  </main>
+</body>
+</html>
